@@ -28,8 +28,15 @@ while game_is_on:
 
     if game.at_edge(snake.snake):  # game over
         game_is_on = False
+
+    # detect head collision
     else:
-        if dot.on_snake(snake):
+        #detect head collision
+        for segment in snake.snake[1:]:
+            if segment.distance(snake.head) < 10:
+                game_is_on = False
+
+        if game_is_on and dot.on_snake(snake):
             game.update_score()
             snake.grow()
             dot.move()
