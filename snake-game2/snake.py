@@ -4,7 +4,10 @@ from turtle import Turtle, Screen, listen, onkey
 class Snake():
     def __init__(self):
         self.snake = []
+        self.create_snake()
+        self.head = self.snake[0]
 
+    def create_snake(self):
         for _ in range(0, 3):
             new_section = Turtle()
             new_section.shape("square")
@@ -48,13 +51,13 @@ class Snake():
         self.snake.append(new_section)
 
     def up(self):
-        self.snake[0].setheading(90)
+        self.head.setheading(90)
 
     def down(self):
-        self.snake[0].setheading(270)
+        self.head.setheading(270)
 
     def right(self):
-        self.snake[0].setheading(0)
+        self.head.setheading(0)
 
     def left(self):
-        self.snake[0].setheading(180)
+        self.head.setheading(180)
