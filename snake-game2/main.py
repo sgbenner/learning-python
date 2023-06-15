@@ -1,4 +1,4 @@
-from turtle import Turtle, Screen, listen, onkey
+from turtle import listen, onkey
 from snake import Snake
 from dot import Dot
 from game import Game
@@ -8,11 +8,11 @@ GAME_SPEED = 0.05
 GAME_SIZE_X = 200
 GAME_SIZE_Y = 200
 
-######## Start the game #########
+# Start the game
 game = Game(screen_size_x=GAME_SIZE_X, screen_size_y=GAME_SIZE_Y)
 
 snake = Snake()  # initialize snake
-dot = Dot(snake.snake)  # initialize dot/food
+dot = Dot()  # initialize dot/food
 
 listen()
 onkey(snake.up, "Up")  # This will call the up function if the "Left" arrow key is pressed
@@ -29,10 +29,10 @@ while game_is_on:
     if game.at_edge(snake.snake):  # game over
         game_is_on = False
     else:
-        if dot.on_snake(snake.snake):
+        if dot.on_snake(snake):
             game.update_score()
             snake.grow()
-            dot.move(snake.snake)
+            dot.move()
 
     time.sleep(GAME_SPEED)
 

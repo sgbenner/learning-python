@@ -1,7 +1,7 @@
-from turtle import Turtle, Screen, listen, onkey
+from turtle import Turtle
 
 
-class Snake():
+class Snake:
     def __init__(self):
         self.snake = []
         self.create_snake()
