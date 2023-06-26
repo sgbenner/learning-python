@@ -1,3 +1,4 @@
+from random import randint
 from turtle import Turtle
 
 
@@ -10,6 +11,7 @@ class Ball(Turtle):
         self.color("white")
         self.speed("fastest")
         self.penup()
+        self.speed = 1
 
         # reset ball on init
         self.reset()
@@ -26,17 +28,26 @@ class Ball(Turtle):
         if self.x_move > 0:
             self.x_move *= -1
 
-        if self.y_move > 0:
+        if randint(0, 1) == 1:
+            self.y_move = randint(1,8)
             self.y_move *= -1
+
+        self.increase_speed()
 
     def l_paddle_bounce(self):
         if self.x_move < 0:
             self.x_move *= -1
 
-        if self.y_move < 0:
+        if randint(0, 1) == 1:
+            self.y_move = randint(1,8)
             self.y_move *= -1
 
+        self.increase_speed()
+
     def reset(self):
-        self.x_move = 5
-        self.y_move = 5
-        self.goto(0,0)
+        self.x_move = 6
+        self.y_move = 8
+        self.goto(0, 0)
+
+    def increase_speed(self):
+        self.speed += 0.5

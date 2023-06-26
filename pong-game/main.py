@@ -5,7 +5,7 @@ from ball import Ball
 from paddle import Paddle
 import time
 
-SCREEN_SIZE = [200, 150]
+SCREEN_SIZE = [200, 125]
 GAME_BOARDER = [(SCREEN_SIZE[0] * 2) - 10, (SCREEN_SIZE[1] * 2) - 10]
 
 RIGHT = "RIGHT"
@@ -73,6 +73,10 @@ while game_on:
         # reset ball and start over
         ball.reset()
         ball.r_paddle_bounce()
+
+    sleep = 0.08 / ball.speed
+
+    time.sleep(sleep)
 
 # end game
 screen.exitonclick()
