@@ -3,10 +3,11 @@ from tkinter import *
 from tkinter import messagebox
 from random import randint
 import pyperclip
+import json
 
 PASSWORD_LENGTH = 20
 EMAIL = "myemail@email.com"
-
+PASSWORD_FILE = "data.json"
 
 # -- Password Generator -- #
 
@@ -26,20 +27,57 @@ def save_password():
     website = website_entry.get()
     email_username = email_username_entry.get()
     password = password_entry.get()
+    new_data = {
+        website: {
+            "email": email_username,
+            "password": password
+        },
+    }
 
     if website.strip() == "" or email_username.strip() == "" or password.strip() == "":
         messagebox.showerror(message="Please don't leave any fields empty!")
     else:
-        # confirm they want to proceed
-        is_okay = messagebox.askokcancel(title=website,
-                                         message=f"These are the details entered:\nEmail: {email_username}\nPassword: {password}\nIs it okay to save?")
+        # try opening an existing file
+        try:
+            with open(PASSWORD_FILE, "r") as file:
+                contents = json.load(file)
 
-        if is_okay:
-            with open("passwords.txt", "a") as file:
-                file.writelines(f"\n{website}\t|\t{email_username}\t|\t{password}")
+        # if no file exists, create new file
+        except FileNotFoundError:
+            with open(PASSWORD_FILE, "w") as file:
+                json.dump(new_data, file, indent=4)
 
+        else:
+            with open(PASSWORD_FILE, "w") as file:
+                contents.update(new_data)
+                json.dump(contents, file, indent=4)
+
+        finally:
             website_entry.delete(0, END)
             password_entry.delete(0, END)
+
+
+# -- Search for Password -- #
+def search_website():
+    website = website_entry.get()
+
+    # try opening file:
+    try:
+        with open(PASSWORD_FILE, "r") as file:
+            contents = json.load(file)
+
+        # search for website entered
+        results = contents.get(website)
+
+        if results is None:
+            messagebox.showinfo(message="User name/password not found...")
+        else:
+            results_username = results["email"]
+            results_password = results["password"]
+            messagebox.showinfo(message=f"User Name: {results_username}\nPassword: {results_password}")
+
+    except FileNotFoundError:
+        messagebox.showinfo(message="User name/password not found")
 
 
 # -- UI Setup -- #
@@ -65,8 +103,8 @@ password_label = Label(text="Password:")
 password_label.grid(column=0, row=3)
 
 # inputs
-website_entry = Entry(width=40)
-website_entry.grid(column=1, row=1, columnspan=2)
+website_entry = Entry(width=21)
+website_entry.grid(column=1, row=1, columnspan=1)
 
 email_username_entry = Entry(width=40)
 email_username_entry.insert(0, EMAIL)
@@ -81,5 +119,8 @@ gen_password_button.grid(column=2, row=3)
 
 add_button = Button(text="Add", width=38, command=save_password)
 add_button.grid(column=1, row=4, columnspan=2)
+
+search_button = Button(text="Search", command=search_website, width=15)
+search_button.grid(column=2, row=1)
 
 screen.mainloop()
