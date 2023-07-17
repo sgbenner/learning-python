@@ -1,0 +1,312 @@
+﻿rank,word,definition,used_count,used_pct
+1,"ὁ, ἡ, τό",(article) the,19863,14.4
+2,καί,and,9018,6.5
+3,"αὐτός, -ή, -ό ",(3rd person pronoun) he/she/it/they ,5597,4.1
+4,σύ ,(2nd person pronoun) you,2908,2.1
+5,δέ ,"and, but",2792,2
+6,ἐν ,(Dat) in,2752,2
+7,ἐγώ ,(1st person pronoun) I,2584,1.9
+8,εἰμί ,to be,2462,1.8
+9,λέγω ,"to speak, say",2353,1.7
+10,εἰς,"(Acc) into, to",1767,1.3
+11,"οὐ, οὐκ, οὐχ",not,1623,1.2
+12,"ὅς, ἥ, ὅ ","(relative pronoun) who, which, what",1431,1
+13,"οὗτος, αὕτη, τοῦτο",this,1387,1
+14,"θεός, -οῦ, ὁ ",God,1317,1
+15,ὅτι,"that, because (or introduce direct quotation)",1296,0.9
+16,"πᾶς, πᾶσα, πᾶν ","all, every",1243,0.9
+17,μή,not,1042,0.8
+18,γάρ ,for (postpositive particle),1041,0.8
+19,Ἰησοῦς,"Jesus, Joshua",917,0.7
+20,"ἐκ, ἐξ","(Gen) from, out of",914,0.7
+21,ἐπί ,"(Gen) on, upon; (Dat) on, near; (Acc) on, against",890,0.6
+22,"κύριος, -ου, ὁ ","Lord, lord, master",717,0.5
+23,ἔχω,to have,708,0.5
+24,πρός ,"(Acc) to, toward; (Dat) at, on; (Gen) for the sake of",700,0.5
+25,γίνομαι ,"to become, happen",669,0.5
+26,διά,(Gen) through; (Acc) because of,667,0.5
+27,ἵνα ,in order that,663,0.5
+28,ἀπό,"(Gen) from, away from",646,0.5
+29,ἀλλά ,"but, except",638,0.5
+30,ἔρχομαι ,"to come, go",632,0.5
+31,ποιέω ,"to make, do",568,0.4
+32,"τίς, τί ",(interrogative pronoun) who? which? what?,555,0.4
+33,"ἄνθρωπος, -ου, ὁ ","human being, person; (pl) humanity, people",550,0.4
+34,"τὶς, τὶ","(indefinite pronoun) anyone/thing, someone/thing",534,0.4
+35,"Χριστός, -οῦ, ὁ ",Christ (= Hebrew Messiah = Anointed One),529,0.4
+36,ὡς,"as, like",504,0.4
+37,εἰ ,if,502,0.4
+38,οὖν,therefore,499,0.4
+39,ὁράω ,to see,483,0.3
+40,κατά ,"(Gen) down, against; (Acc) along, at according to",473,0.3
+41,μετά,(Gen) with; (Acc) after,469,0.3
+42,ἀκούω,to hear,428,0.3
+43,"πολύς, πολλή, πολύ ","much, many",416,0.3
+44,δίδωμι ,to give,415,0.3
+45,"πατήρ, πατρός, ὁ ",father,413,0.3
+46,"ἡμέρα, -ας, ἡ ",day,389,0.3
+47,"πνεῦμα, -τος, τό ","spirit, self; wind; breath",379,0.3
+48,"υἱός, -οῦ, ὁ ",son,377,0.3
+49,"εἷς, μία, ἕν",one; single,345,0.2
+50,"ἀδελφός, -οῦ, ὁ ",brother,343,0.2
+51,ἤ ,or; than,343,0.2
+52,ἐάν ,if,333,0.2
+53,περί ,"(Gen) about; (Acc) around, about",333,0.2
+54,"λόγος, -ου, ὁ ",word,330,0.2
+55,"ἑαυτοῦ, -ῆς, -οῦ ",(reflexive pronoun) one’s self,319,0.2
+56,οἶδα ,to know,318,0.2
+57,λαλέω ,"to speak, talk, say",296,0.2
+58,"οὐρανός, -οῦ, ὁ","heaven, sky",273,0.2
+59,"μαθητής, -οῦ, ὁ ","disciple, student",261,0.2
+60,λαμβάνω ,"to take, receive",258,0.2
+61,"γῆ, γῆς, ἡ ","earth, land, ground",250,0.2
+62,"ἐκεῖνος, -η, -ο ",that,243,0.2
+63,"μέγας, μεγάλη, μέγα ","great, large",243,0.2
+64,"πίστις, -εως, ἡ ","faith, trust, belief",243,0.2
+65,πιστεύω,"to believe, trust, have faith; entrust",241,0.2
+66,"οὐδείς, οὐδεμία, οὐδέν","no one, nothing",234,0.2
+67,"ἅγιος, -α, -ον ","holy, sacred; (pl) saints",233,0.2
+68,ἀποκρίνομαι,"answer, reply",231,0.2
+69,"ὄνομα, -τος, τό ",name,230,0.2
+70,γινώσκω ,to know,222,0.2
+71,ὑπό,(Gen) by; (Acc) under,220,0.2
+72,ἐξέρχομαι ,to come / go out,218,0.2
+73,"ἀνήρ, ἀνδρός, ὁ ","man, husband",216,0.2
+74,"γυνή, -αικός, ἡ ","woman, wife",215,0.2
+75,τέ ,and,215,0.2
+76,δύναμαι ,"to be able to, can",210,0.2
+77,οὕτω / οὔτως ,"in this way, thus",208,0.2
+78,θέλω ,"to want to, wish to",208,0.2
+79,ἰδού ,behold! look! see!,200,0.14
+80,"Ἰουδαῖος, -α, -ον ",a Jew; Jewish; Judean  ,195,0.14
+81,εἰσέρχομαι,to come / go in,194,0.14
+82,"νόμος, -ου, ὁ ",law,194,0.14
+83,παρά ,"(Gen) from; (Dat) with, near; (Acc) beside, along",194,0.14
+84,γράφω ,to write,191,0.14
+85,"κόσμος, -ου, ὁ ","world, universe",186,0.13
+86,καθώς,"as, just as",182,0.13
+87,μέν ,"particle indicating contrast, emphasis or continuation",179,0.13
+88,"χείρ, χειρός, ἡ ",hand,177,0.13
+89,εὑρίσκω,"to find, discover",176,0.13
+90,"ἄγγελος, -ου, ὁ ","angel, messenger",175,0.13
+91,"ὄχλος, -ου, ὁ ",crowd,175,0.13
+92,"ἁμαρτία, -ας, ἡ ","a sin, sin",173,0.13
+93,"ἔργον, -ου, τό ","work, deed",169,0.12
+94,ἄν ,particle indicating contingency or uncertainty,166,0.12
+95,"δόξα, -ης, ἡ ",glory,166,0.12
+96,"πόλις, -εως, ἡ ",city,163,0.12
+97,"βασιλεία, -ας, ἡ ","dominion, kingdom",162,0.12
+98,"ἔθνος, -ους, τό ","nation, people; (pl) Gentiles",162,0.12
+99,τότε ,then,160,0.12
+100,"Παῦλος, -ου, ὁ ",Paul,158,0.11
+101,ἐσθίω ,to eat,157,0.14
+102,"καρδία, -ας, ἡ ",heart,156,0.14
+103,"Πέτρος, -ου, ὁ ",rock,156,0.14
+104,"ἄλλος, -η, -ο ",(an)other,155,0.11
+105,"χάρις, -ιτος, ἡ ","grace, kindness, mercy",155,0.11
+106,ἵστημι ,"to set, place, establish; (intran) stand",155,0.11
+107,"πρῶτος, -η, -ον ",first,155,0.11
+108,πορεύομαι ,"to go, proceed, travel; live, walk",153,0.11
+109,ὑπέρ,"(Gen) for, for the sake of; (Acc) over, above, beyond",150,0.11
+110,καλέω ,"to  call, name; summon",148,0.11
+111,νῦν ,now,147,0.11
+112,"σάρξ, σαρκός, ἡ ",flesh,147,0.11
+113,ἕως,until,146,0.11
+114,ἐγείρω ,to raise,144,0.11
+115,"ὅστις, ἥτις, ὅτι ","who, which; whoever, whichever",144,0.11
+116,"προφήτης, -ου, ὁ ",prophet,144,0.11
+117,ἀφίημι ,"to forgive, allow, leave, dismiss",143,0.1
+118,ἀγαπάω,to love,143,0.1
+119,οὐδέ,"and not, neither, nor",143,0.1
+120,"λαός, -οῦ, ὁ ",people,142,0.1
+121,"σῶμα, -τος, τό ",body,142,0.1
+122,πάλιν ,again,141,0.1
+123,ζάω,to live,140,0.1
+124,"φωνή, -ῆς, ἡ ","voice, sound",139,0.1
+125,δύο ,two,135,0.1
+126,"Ἰωάννης, -ου, ὁ ",John,135,0.1
+127,"ζωή, -ῆς, ἡ ",life,135,0.1
+128,ἀποστέλλω,to send (forth),132,0.1
+129,βλέπω ,to see,132,0.1
+130,ἀμήν ,"amen, truly",129,0.1
+131,"νεκρός, -ά, -όν ",dead,128,0.1
+132,σύν ,with,128,0.1
+133,"δοῦλος, -η, -ον ",slave,126,0.09
+134,"ἀγαθός, -ή, -όν","good, useful, beneficial",125,0.09
+135,ὅταν,whenever,123,0.09
+136,"αἰών, -ῶνος, ὁ ","an age, eternity",122,0.09
+137,"ἀρχιερεύς, -έως, ὁ ",high priest,122,0.09
+138,βάλλω ,to throw,122,0.09
+139,"θάνατος, -ου, ὁ ",death,120,0.09
+140,"δύναμις, -εως, ἡ ","power, miracle; ability",119,0.09
+141,παραδίδωμι ,"to give over; deliver up, arrest; betray",119,0.09
+142,μένω ,"to remain, stay",118,0.09
+143,ἀπέρχομαι,"to go away, depart",117,0.09
+144,ζητέω,to seek,117,0.09
+145,"ἀγάπη, -ης, ἡ ",love,116,0.09
+146,"βασιλεύς, -έως, ὁ ",king,115,0.08
+147,"ἐκκλησία, -ας, ἡ ","church, assembly, gathering",114,0.08
+148,"ἴδιος, -α, -ον ",one’s own,114,0.08
+149,κρίνω,judge; condemn; determine,114,0.08
+150,"μόνος, -η, -ον ",only,114,0.08
+151,"οἶκος, -ου, ὁ ","house, home",114,0.08
+152,ἀποθνῄσκω,to die,111,0.08
+153,"ὅσος, -η, -ον ","as much as, how much",110,0.08
+154,"ἀλήθεια, -ας, ἡ ",truth,109,0.08
+155,μέλλω ,"to be going to, am about to",109,0.08
+156,"ὅλος, -η, -ον ","whole, all, complete, entire",109,0.08
+157,παρακαλέω ,"to beg, encourage, request, comfort",109,0.08
+158,ἀνίστημι,"to raise; appoint; (intran) rise, stand up, appear",108,0.08
+159,σῴζω ,"to save, heal, rescue",106,0.08
+160,"ὥρα, -ας, ἡ ","hour, moment, time",106,0.08
+161,ὅτε,when,103,0.08
+162,πῶς,how?,103,0.08
+163,"ψυχή, -ῆς, ἡ ","life (-force), soul, self, person",103,0.08
+164,"ἐξουσία, -ας, ἡ ","authority, right",102,0.07
+165,"καλός, -ή, -όν ","good, beautiful",102,0.07
+166,αἴρω,"to take (up / away), raise",101,0.07
+167,δεῖ ,it is necessary,101,0.07
+168,"ὁδός, -οῦ, ἡ ","way, path, road",101,0.07
+169,"ἀλλήλων, -ους, -ους ",(reciprocal pronoun) of one another,100,0.07
+170,"ὀφθαλμός, -οῦ, ὁ ",eye,100,0.07
+171,τίθημι,"to put, place",100,0.07
+172,"τέκνον, -ου, τό ",child,99,0.07
+173,"ἕτερος, -α, -ον ",other,98,0.07
+174,"Φαρισαῖος, -ου, ὁ ",Pharisee,98,0.07
+175,"ἄρτος, -ου, ὁ ","bread, loaf",97,0.07
+176,"αἷμα, -τος, τό ",blood,97,0.07
+177,διδάσκω ,to teach,97,0.07
+178,γεννάω ,"to become parent of, beget, give birth to",97,0.07
+179,ἐκεῖ ,there,95,0.07
+180,φοβέομαι ,fear; reverence,95,0.07
+181,περιπατέω ,"walk, go about; live",95,0.07
+182,ἐνώπιον ,"(Gen) before, in the presence of",94,0.07
+183,"τόπος, -ου, ὁ",place,94,0.07
+184,ἔτι ,"yet, still",93,0.07
+185,"οἰκία, -ας, ἡ ","house, household",93,0.07
+186,"πούς, ποδός, ὁ ",foot,93,0.07
+187,"δικαιοσύνη, -ης, ἡ ","righteousness, justice",92,0.07
+188,"εἰρήνη, -ης, ἡ ",peace,92,0.07
+189,κάθημαι,to sit,91,0.07
+190,"θάλασσα, -ης, ἡ ",sea; lake,91,0.07
+191,ἀκολουθέω,to follow,90,0.07
+192,ἀπόλλυμι,to destroy; (mid) perish,90,0.07
+193,πίπτω,to fall,90,0.07
+194,"μηδείς, μηδεμία, μηδέν",no one / thing,89,0.06
+195,ἑπτά ,seven,88,0.06
+196,οὔτε,"not, no, nor",87,0.06
+197,ἄρχω ,to rule; (mid) begin,86,0.06
+198,πληρόω ,"fill, fulfill",86,0.06
+199,προσέρχομαι ,to come / go to,86,0.06
+200,"καιρός, -οῦ, ὁ ","(proper) time, season",85,0.06
+201,προσεύχομαι ,to pray,85,0.06
+202,καί+ἐγώ = κἀγὼ,and I,84,0.06
+203,"μήτηρ, -τρος, ἡ ",mother,83,0.06
+204,ὥστε,"so that, that",83,0.06
+205,ἀναβαίνω ,"to go up, ascend",82,0.06
+206,"ἕκαστος, -η, -ον ",each,82,0.06
+207,ὅπου ,where,82,0.06
+208,ἐκβάλλω ,to throw / cast out,81,0.06
+209,καταβαίνω ,"to go down, descend",81,0.06
+210,μᾶλλον ,"more, rather",81,0.06
+211,"ἀπόστολος, -ου, ὁ ",apostle,80,0.06
+212,"Μωϋσῆς, -έως, ὁ ",Moses,80,0.06
+213,"δίκαιος, -α, -ον ","righteous, just",79,0.06
+214,πέμπω ,to send,79,0.06
+215,ὑπάγω,"to go, go away, go back",79,0.06
+216,"πονηρός, -ά, -όν ","evil, wicked",78,0.06
+217,"στόμα, -τος, τό ",mouth,78,0.06
+218,ἀνοίγω,to open,77,0.06
+219,βαπτίζω ,to baptize,77,0.06
+220,"Ἰερουσαλήμ, ἡ",Jerusalem,77,0.06
+221,"σημεῖον, -ου, τό ",(miraculous) sign,77,0.06
+222,"εὐαγγέλιον, -ου, -ν ","good news, Gospel",76,0.06
+223,μαρτυρέω ,"to witness, testify",76,0.06
+224,"πρόσωπον, -ου, τό ",face,76,0.06
+225,"ὕδωρ, ὕδατος, τό ",water,76,0.06
+226,δώδεκα ,twelve,75,0.05
+227,"κεφαλή, -ῆς, ἡ ",head,75,0.05
+228,"Σίμων, -ωνος, ὁ ",Simon,75,0.05
+229,ἀποκτείνω,to kill,74,0.05
+230,χαίρω ,to rejoice,74,0.05
+231,"ἐμός, -ή, -όν ","(possessive adjective) my, mine",74,0.05
+232,"Ἀβραάμ, ὁ",Abraham,73,0.05
+233,"φῶς, -φωτός, τό ",light,73,0.05
+234,πίνω,to drink,73,0.05
+235,"ἱερόν, -οῦ, τό ",temple,72,0.05
+236,"αἰώνιος, -ον ",eternal,71,0.05
+237,"πῦρ, -ός, τό ",fire,71,0.05
+238,αἰτέω,"to ask, request",70,0.05
+239,τηρέω,"to keep, observe, guard",70,0.05
+240,ἄγω,"to lead, bring, go",69,0.05
+241,"τρεῖς, -τρία ",three,69,0.05
+242,"Ἰσραήλ, ὁ ",Israel,68,0.05
+243,"ῥῆμα, -τος, τό ","word, saying, matter",68,0.05
+244,"σάββατον, -ου, τό ",Sabbath; (pl) week,68,0.05
+245,"ἐντολή, -ῆς, ἡ ",command,67,0.05
+246,"πιστός, -ή, -όν ","faithful, trustworthy, believing",67,0.05
+247,"πλοῖον, -ου, τό ",boat,67,0.05
+248,ἀπολύω,"to release, set free, dismiss",66,0.05
+249,φέρω ,"to bring, carry",66,0.05
+250,φημί ,to say,66,0.05
+251,"καρπός, -οῦ, ὁ ",fruit,66,0.05
+252,"πρεσβύτερος, -α, -ον ",elder,66,0.05
+253,εἴτε,"if, whether",65,0.05
+254,"δαιμόνιον, -ου, τό ",demon,63,0.05
+255,ἔξω ,"out, outside",63,0.05
+256,ἐρωτάω ,to ask,63,0.05
+257,"γραμματεύς, -έως, ὁ ",scribe (Jewish legal expert),63,0.05
+258,"ὄρος, -ους, τό ","mountain, hill",63,0.05
+259,δοκέω ,"to think, suppose, seem",62,0.04
+260,"Ἱεροσόλυμα, τό ",Jerusalem,62,0.04
+261,"θέλημα, -τος, τό ","wish, will",62,0.04
+262,"θρόνος, -ου, ὁ ",throne,62,0.04
+263,"ἀγαπητός, -ή, -όν ",beloved,61,0.04
+264,δοξάζω ,to glorify,61,0.04
+265,"Γαλιλαία, -ας, ἡ ",Galilee,61,0.04
+266,ἤδη ,already,61,0.04
+267,"κακός, -ή, -όν ","bad, evil",61,0.04
+268,κηρύσσω ,"to proclaim, preach",61,0.04
+269,"νύξ, -νυκτός, ἡ ",night,61,0.04
+270,ὧδε ,here,61,0.04
+271,"ἱμάτιον, -ου, τό ","garment, clothing, cloak",60,0.04
+272,προσκυνέω ,to worship,60,0.04
+273,ὑπάρχω,to be,60,0.04
+274,ἀσπάζομαι ,"to greet, welcome",59,0.04
+275,"χαρά, -ᾶς, ἡ ",joy,59,0.04
+276,"Δαυίδ, ὁ ",David,59,0.04
+277,"διδάσκαλος, -ου, ὁ ",teacher,59,0.04
+278,"εὐθύς, -εῖα, -ύ ",immediately,59,0.04
+279,"λίθος, -ου, ὁ ",stone,59,0.04
+280,συνάγω ,to gather,59,0.04
+281,"μέσος, -η, -ον ","middle, midst",58,0.04
+282,θεωρέω,"to see, watch, observe",58,0.04
+283,"τοιοῦτος, -αύτη, -οῦτον","such, of such kind",57,0.04
+284,δέχομαι,"to receive, accept, take",56,0.04
+285,ἐπερωτάω ,"to ask, ask for",56,0.04
+286,μηδέ,"nor, and not",56,0.04
+287,"συναγωγή, -ῆς, ἡ ","synagogue, assembly",56,0.04
+288,"τρίτος, -η, -ον ",third,56,0.04
+289,"ἀρχή, -ῆς, ἡ ","beginning, origin, ruler",55,0.04
+290,κράζω,to cry out,55,0.04
+291,"λοιπός, -ή, -όν ","rest, remaining (adj)",55,0.04
+292,"Πιλᾶτος, -ου, ὁ ",Pilate,55,0.04
+293,"χρόνος, -ου, ὁ ",time,54,0.04
+294,"δεξιός, -ά, -όν ",right (in contrast to left),54,0.04
+295,εὐαγγελίζω ,to bring / preach good news,54,0.04
+296,"Μαρία, -ας ",Mary,54,0.04
+297,οὐχί,"no, not",54,0.04
+298,διό ,therefore,53,0.04
+299,"ἐλπίς, -ίδος, ἡ ",hope,53,0.04
+300,ὅπως ,"in order that, that",53,0.04
+301,"ἔσχατος, -η, -ον ",last,52,0.04
+302,"ἐπαγγελία, -ας, ἡ ",promise,52,0.04
+303,"παιδίον, -ου, τό ","(little) child, infant",52,0.04
+304,πείθω ,"to persuade, convince; (pass) obey, trust",52,0.04
+305,σπείρω ,to sow,52,0.04
+306,"σοφία, -ας, ἡ ",wisdom,51,0.04
+307,"γλῶσσα, -ης, ἡ ","tongue, language",50,0.04
+308,"γραφή, -ῆς, ἡ ","Scripture, writing",50,0.04
+309,"μακάριος, -α, -ον ","blessed, favored, fortunate, happy",50,0.04
+310,"παραβολή, -ῆς, ἡ ",parable,50,0.04
+311,"τυφλός, -ή, -όν ",blind,50,0.04
