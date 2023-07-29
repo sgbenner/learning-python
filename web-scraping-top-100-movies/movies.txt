@@ -1,0 +1,101 @@
+,0
+0,1) The Godfather
+1,2) The Empire Strikes Back
+2,3) The Dark Knight
+3,4) The Shawshank Redemption
+4,5) Pulp Fiction
+5,6) Goodfellas
+6,7) Raiders Of The Lost Ark
+7,8) Jaws
+8,9) Star Wars
+9,10) The Lord Of The Rings: The Fellowship Of The Ring
+10,11) Back To The Future
+11,12: The Godfather Part II
+12,13) Blade Runner
+13,14) Alien
+14,15) Aliens
+15,16) The Lord Of The Rings: The Return Of The King
+16,17) Fight Club
+17,18) Inception
+18,19) Jurassic Park
+19,20) Die Hard
+20,21) 2001: A Space Odyssey
+21,22) Apocalypse Now
+22,23) The Lord Of The Rings: The Two Towers
+23,24) The Matrix
+24,25) Terminator 2: Judgment Day
+25,26) Heat
+26,"27) The Good, The Bad And The Ugly"
+27,28) Casablanca
+28,29) The Big Lebowski
+29,30) Seven
+30,31) Taxi Driver
+31,32) The Usual Suspects
+32,33) Schindler's List
+33,34) Guardians Of The Galaxy
+34,35) The Shining
+35,36) The Departed
+36,37) The Thing
+37,38) Mad Max: Fury Road
+38,39) Saving Private Ryan
+39,40) 12 Angry Men
+40,41) Eternal Sunshine Of The Spotless Mind
+41,42) There Will Be Blood
+42,43) One Flew Over The Cuckoo's Nest
+43,44) Gladiator
+44,45) Drive
+45,46) Citizen Kane
+46,47) Interstellar
+47,48) The Silence Of The Lambs
+48,49) Trainspotting
+49,50) Lawrence Of Arabia
+50,51) It's A Wonderful Life
+51,52) Once Upon A Time In The West
+52,53) Psycho
+53,54) Vertigo
+54,55) Pan's Labyrinth
+55,56) Reservoir Dogs
+56,57) Whiplash
+57,58) Inglourious Basterds
+58,59) E.T. – The Extra Terrestrial
+59,60) American Beauty
+60,61) Forrest Gump
+61,62) La La Land
+62,63) Donnie Darko
+63,64) L.A. Confidential
+64,65) Avengers Assemble
+65,66) Return Of The Jedi
+66,67) Memento
+67,68) Ghostbusters
+68,69) Singin' In The Rain
+69,70) The Lion King
+70,71) Hot Fuzz
+71,72) Rear Window
+72,73) Seven Samurai
+73,74) Mulholland Dr.
+74,75) Fargo
+75,76) A Clockwork Orange
+76,77) Toy Story
+77,78) Oldboy
+78,79) Captain America: Civil War
+79,15) Spirited Away
+80,81) The Social Network
+81,82) Some Like It Hot
+82,83) True Romance
+83,84) Rocky
+84,85) Léon
+85,86) Indiana Jones And The Last Crusade
+86,87) Predator
+87,88) The Exorcist
+88,89) Shaun Of The Dead
+89,90) No Country For Old Men
+90,91) The Prestige
+91,92) The Terminator
+92,93) The Princess Bride
+93,94) Lost In Translation
+94,95) Arrival
+95,96) Good Will Hunting
+96,97) Titanic
+97,98) Amelie
+98,99) Raging Bull
+99,100) Stand By Me
